@@ -1,0 +1,11 @@
+Graph theory - https://www.youtube.com/watch?v=eQA-m22wjTQ&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P&index=2&t=0s
+
+Theta n = worst case complexity
+O(1) = constant time
+O(log n) = logarithmic time (divide & conquer algorithms, bubble sort)
+O(n) = linear time
+O(n log n) = linearithmic time
+O(n^2) = quadratic time (bubble sort)
+O(n^3) = cubic time
+O(2^n) = exponential time (slow, brute force algorithms)
+O(n!) = factorial time (slowest, traveling salesman)

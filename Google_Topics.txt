@@ -1,0 +1,98 @@
+Coding Interview:
+	Learn Python well
+	APIs
+	Object oriented design
+	Testing
+	Time complexity
+	Recursion
+	Searching
+	Binary searching
+	Divide-and-Conquer
+	Dynamic programming/Memoization
+	Greediness
+	Recursion
+	Algorithms linked to a specific data structure
+	Djikstra
+	A*
+	Elementary probability theory
+	Combinatorics
+	N-Choose-K problems and their ilk
+	Sorting algorithms: input, output, optimal use cases:
+		Insertion-sort
+		Radix-sort
+		QuickSort
+		MergeSort
+		HeapSort
+	Data structures & what algorithms tend to go with them:
+		Arrays
+		Linked lists
+		Stacks
+		Queues
+		Hash-sets
+		Hash-maps
+		Hash-tables
+		Dictionary
+		Trees
+		Binary trees
+		Heaps
+		Graphs*
+	Discrete math:
+		Counting problems
+		Probability problems
+		Other Discrete Math 101 problems
+	Graphs:
+		Problems:
+			Distance
+			Search
+			Connectivity
+			Cycle detection
+			More...
+		Graphs as:
+			Objects and pointers
+			Matrix
+			Adjacency list
+		Traversal algorithms
+		Breadth first searching
+		Depth first searching
+
+Large Scale Design Interview:
+	System Design:
+		Features sets
+		Interfaces
+		Class hierarchies
+		Distributed systems
+		Designing a system under certain constraints
+		Simplicity
+		Limitations
+		Robustness
+		Tradeoffs
+		Traverse a graphs
+		Runtime complexity of graphs
+		Distributed hash table system
+		Resource estimation with real systems
+		Big product design picture
+		Translation of an abstract problem to a system
+		API discussions
+		Binary trees
+		Cache
+		Mapreduce
+		For loop problems
+		Index
+		Reverse link-list
+		Compilers
+		Memory cache
+		Networks
+	
+	Operating Systems:
+		Processes
+		Threads
+		Concurrency issues
+		Locks
+		Mutexes
+		Semaphores
+		Monitors
+		Deadlock
+		Livelock
+		Context switching
+		Scheduling
+		Modern concurrency constructs
